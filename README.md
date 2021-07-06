@@ -12,5 +12,7 @@ In training and testing our machine learning model, we experimented with 3 diffe
 ## Deployment
 We deployed the model as a web application at the following address: https://airline-satisfaction.herokuapp.com/.
 
+![application image] (images/application.PNG)
+
 ## Conclusion
 The utility of the application is for stakeholders, whether that be airlines, airline investors, airline travelers, etc. to test the application to determine what factors of the flight experience should be optimized to produce customer satisfaction. On the web application, we also included graphs and analyses to support our conclusions from the data analysis. 
